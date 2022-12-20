@@ -7,3 +7,5 @@ function createCube(size) {
   }
   return top.concat(bottom.reverse()).join("\n");
 }
+
+console.log(createCube(3));

@@ -8,3 +8,5 @@ function checkPart(part) {
     );
   });
 }
+
+console.log(checkPart("miidim"));
