@@ -19,7 +19,11 @@
     "challenge09": "node challenge09",
     "challenge10": "node challenge10",
     "challenge11": "node challenge11",
-    "challenge12": "node challenge12"
+    "challenge12": "node challenge12",
+    "challenge13": "node challenge13",
+    "challenge14": "node challenge14",
+    "challenge15": "node challenge15",
+    "challenge16": "node challenge16"
   },
   "author": "Pedro Dominguez Aguilera",
   "license": "MIT"
